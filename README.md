@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Trushantadeshara
-- 👀 I’m interested in Robotics and this is my company email account
+- 👀 I’m interested in Robotics and this is my company github account.
 - 🌱 I’m currently learning ROS and Computer Vision
-- 💞️ I’m looking to collaborate on OpenSource Robotics and more projects regarding to robotics
 - 📫 How to reach me mail me at trushant@wastefullinsights.com
 
 <!---
